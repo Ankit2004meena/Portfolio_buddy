@@ -1,0 +1,22 @@
+prompt,response,
+tag,patterns,responses
+education,"['What is ankit education?', 'Tell me about ankit studies', 'Where did ankit study?']","['I am pursuing B.Tech in Electronics and Communication Engineering at NIT Kurukshetra (2022-2026) with a CGPA of 8.93. I completed Class XII with 93% and Class X with 95% at Nalanda Modern Public School, Delhi.']"
+experience,"['Do ankit have any experience?', 'Tell me about ankit internships', 'Where have ankit worked?']","['I interned at NULLCLASS (Jul–Aug 2024) as a Full Stack Web Developer, working on MERN stack projects. I also interned at CDAC (Jun–Aug 2024) in Ethical Hacking and Penetration Testing, where I explored Windows ['vulnerabilities and hacking tools.']"
+projects details,"['What projects have ankit done?', 'Tell me about ankit projects', 'Can ankit describe ankit projects?']","['I built an Internshala-clone with secure OTP authentication, multi-language support, and login history tracking. I developed Chat-Master, a real-time chat app with JWT authentication. I also created a QR-Code Generator and a React-based Portfolio website showcasing my skills and projects.']"
+skills,"['What are ankit skills?', 'List ankit technical skills', 'Which programming languages do ankit know?']","['I am skilled in C++, C, Python, and JavaScript. I work with frameworks like React.js, Express.js, Socket.IO, Bootstrap, and Tailwind CSS. I also have experience with SQL and MongoDB, and tools like Git, GitHub, Postman, and VS Code.']"
+achievements,"['Do ankit have any achievements?', 'Tell me about ankit coding achievements', 'Any highlights?']",['I have solved over 675+ problems on LeetCode']
+positions,"['Have ankit held any responsibilities?', 'What positions of responsibility have ankit had?', 'Were ankit part of any team?']",['I was the Team Manager of Thought Lab (2022 to 2025) and a Team Member of EMR (2022 to 2024).']
+contact,"['How can I contact ankit?', 'What is ankit email?', 'Share ankit contact details']",['ankit can contact me at ankitmeena422004@gmail.com or 12215059@nitkkr.ac.in. My LinkedIn profile: linkedin.com/in/ankitmeena2026 and GitHub: github.com/Ankit2004meena']
+languages,"['Which languages do ankit know?', 'What programming languages are ankit familiar with?', 'Can ankit code in Python?', 'Do ankit know C++?', 'What languages can ankit use for coding?']","['I know C++, C, Python, and JavaScript.']"
+tools,"['Which developer tools do ankit use?', 'What tools are ankit comfortable with?', 'Do ankit use Git?', 'Which IDEs do ankit prefer?']","['I regularly use VS Code, Git, GitHub, Postman, Jupyter Notebook, Colab, and Matlab.']"
+frameworks,"['Which frameworks do ankit use?', 'Do ankit work with React?', 'Tell me about ankit web frameworks', 'Have ankit used Tailwind CSS?']","['I have experience with React.js, Express.js, Socket.IO, Bootstrap, and Tailwind CSS.']"
+name,,['My name is Ankit Meena']
+who makes ankit ,,['Ankit Meena']
+greetings,"['hi','hello','hey','yo','sup','namaste','good morning','good afternoon','good evening','good night','howdy','hola','bonjour','hiiiii','hellooo','what�s up?','how are ankit?','wassup','yo bot','hey there','hello friend','hiya','long time no see','good to see ankit','greetings','peace','hey buddy','hello dear','hi mate','oi','sup bro']","['Hello, how can I help ankit today? Ask me anything about Ankit's portfolio.']"
+portfolio,portfolio link,https://ankitportfoliomeena2.netlify.app/
+Linkedin,linkedin link,https://www.linkedin.com/in/ankitmeena2026/
+Github,github link,https://github.com/Ankit2004meena'
+Internshala-clone,,https://internworld.netlify.app/
+Chat-Master,chat master project links,https://chat-master.onrender.com/login
+qrcode,qrcode project links,https://precious-gingersnap-f645e0.netlify.app/
+projects by ankit,,"['internshala-clone,Chat-Master,Qr-code generator']"
